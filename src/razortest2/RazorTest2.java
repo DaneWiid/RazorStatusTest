@@ -58,7 +58,7 @@ public class RazorTest2 {
         razorCodes.put("reservation_api", "API error - displays error returned by partner API");
         razorCodes.put("reservation_json", "JSON request to reservation service failed");
         razorCodes.put("text_json", "JSON request to text service failed");
-        //razorCodes.put("pos_invalid", "The point of sale code is invalid");
+        razorCodes.put("pos_invalid", "The point of sale code is invalid");
 
         htmlCodes = new HashMap<>();
 
